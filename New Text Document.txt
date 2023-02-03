@@ -1,0 +1,7 @@
+------Huong dan su dung github
+create project : git clone + link repro\
+------add project on github
+git add . 
+git commit - m "note"
+git push
+
